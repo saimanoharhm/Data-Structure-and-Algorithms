@@ -35,4 +35,5 @@ Don't forget to follow [Contribution Guidelines](.github/contributing.md) 🚀
 
 ### This Project was a part of the following Open Source Program
 
-[<img src ="https://github.com/Ayush7614/Data-Structure-and-Algorithms/blob/main/cwoc.png" alt ="Cross Winter of Code"></img>](https://crosswoc.ieeedtu.in/)
+[<img src ="https://avatars.githubusercontent.com/u/64211771?s=200&v=4" width = 1000 height = 500 alt ="Code for Cause"></img>](https://codeforcause.org/)
+ 
